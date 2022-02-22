@@ -1,17 +1,5 @@
 title: Toccoa Presbyterian Church
 email: tpcsecretary@windstream.net
-description: >-
-  <p>105 E Tugalo St<br>
-  Toccoa, GA 30577<br>
-  <a href="mailto:tpcsecretary@windstream.net">tpcsecretary@windstream.net</a>
-  <br>
-  <a href="tel:+1-706-886-3680">(706) 886-3680</a></p>
-
-  <p>Toccoa Presbyterian Church is a congregation of <a
-  href="https://eco-pres.org">ECO, a Covenant Order of Evangelical
-  Presbyterians</a>.</p>
-
-  <p>We worship on Sunday mornings at 11:00 -- join us!</p>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
